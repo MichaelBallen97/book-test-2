@@ -1,0 +1,471 @@
+{
+  "books": [
+    {
+      "title": "Twisted Games",
+      "Questions": [
+        {
+          "title": "¿Cuál es el segundo nombre de Bridget en “Twisted Games”?",
+          "answers": [
+            {
+              "title": "Elizabeth",
+              "isCorrect": false
+            },
+            {
+              "title": "Von Ascheberg",
+              "isCorrect": true
+            },
+            {
+              "title": "Diana",
+              "isCorrect": false
+            },
+            {
+              "title": "Meghan",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "title": "¿Qué tipo de guardaespaldas es Rhys Larsen en el libro?",
+          "answers": [
+            {
+              "title": "Guardaespaldas de celebridades",
+              "isCorrect": false
+            },
+            {
+              "title": "Guardaespaldas personal",
+              "isCorrect": false
+            },
+            {
+              "title": "Guardaespaldas real",
+              "isCorrect": true
+            },
+            {
+              "title": "Guardaespaldas corporativo",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "title": "¿Cuál es la actitud predominante de Rhys Larsen en “Twisted Games”?",
+          "answers": [
+            {
+              "title": "Alegre y extrovertido",
+              "isCorrect": false
+            },
+            {
+              "title": "Tímido y reservado",
+              "isCorrect": false
+            },
+            {
+              "title": "Estoico, malhumorado y arrogante",
+              "isCorrect": true
+            },
+            {
+              "title": "Amigable y sociable",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "title": "¿Qué sucede con Bridget cuando su hermano abdica?",
+          "answers": [
+            {
+              "title": "Se convierte en la próxima en la línea de sucesión al trono",
+              "isCorrect": true
+            },
+            {
+              "title": "Se va de vacaciones para evitar la presión",
+              "isCorrect": false
+            },
+            {
+              "title": "Se casa con Rhys para protegerse",
+              "isCorrect": false
+            },
+            {
+              "title": "Decide renunciar a sus deberes reales",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "title": "¿Qué sucede con Bridget cuando su hermano abdica?",
+          "answers": [
+            {
+              "title": "Se convierte en la próxima en la línea de sucesión al trono",
+              "isCorrect": true
+            },
+            {
+              "title": "Se va de vacaciones para evitar la presión",
+              "isCorrect": false
+            },
+            {
+              "title": "Se casa con Rhys para protegerse",
+              "isCorrect": false
+            },
+            {
+              "title": "Decide renunciar a sus deberes reales",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "title": "¿Cuál es el ritmo de la novela romántica contemporánea “Twisted Games”?",
+          "answers": [
+            {
+              "title": "Rápido",
+              "isCorrect": false
+            },
+            {
+              "title": "Lento a medio",
+              "isCorrect": true
+            },
+            {
+              "title": "Medio a rápido",
+              "isCorrect": false
+            },
+            {
+              "title": "Constante",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "title": "¿Cuál es el número de reglas que tiene Rhys Larsen como guardaespaldas?",
+          "answers": [
+            {
+              "title": "Una",
+              "isCorrect": false
+            },
+            {
+              "title": "Dos",
+              "isCorrect": true
+            },
+            {
+              "title": "Tres",
+              "isCorrect": false
+            },
+            {
+              "title": "Cuatro",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "title": "¿Qué podría suceder si Rhys y Bridget se enamoran según el libro?",
+          "answers": [
+            {
+              "title": "Podrían ser felices para siempre",
+              "isCorrect": false
+            },
+            {
+              "title": "Podrían ser castigados por la realeza",
+              "isCorrect": false
+            },
+            {
+              "title": "Podrían destruir un reino y condenarse a ambos",
+              "isCorrect": true
+            },
+            {
+              "title": "Podrían destruir un reino y condenarse a ambos",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "title": "¿Cuál es el título del primer libro de la serie “Twisted”?",
+          "answers": [
+            {
+              "title": "Twisted Love",
+              "isCorrect": true
+            },
+            {
+              "title": "Twisted Love",
+              "isCorrect": false
+            },
+            {
+              "title": "Twisted Fate",
+              "isCorrect": false
+            },
+            {
+              "title": "Twisted Games",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "title": "¿Cómo se describe principalmente a Bridget von Ascheberg en “Twisted Games”?",
+          "answers": [
+            {
+              "title": "Tímida y reservada",
+              "isCorrect": false
+            },
+            {
+              "title": "Regia y de voluntad fuerte",
+              "isCorrect": true
+            },
+            {
+              "title": "Alegre y extrovertida",
+              "isCorrect": false
+            },
+            {
+              "title": "Amigable y sociable",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "title": "¿Qué tipo de matrimonio enfrenta Bridget después de que su hermano abdica?",
+          "answers": [
+            {
+              "title": "Un matrimonio por amor",
+              "isCorrect": false
+            },
+            {
+              "title": "Un matrimonio políticamente conveniente y sin amor",
+              "isCorrect": true
+            },
+            {
+              "title": "Un matrimonio arreglado por sus padres",
+              "isCorrect": false
+            },
+            {
+              "title": "Un matrimonio con un príncipe extranjero",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "title": "¿Cómo se describe principalmente la relación entre Bridget y Rhys en “Twisted Games”?",
+          "answers": [
+            {
+              "title": "Como una amistad profunda",
+              "isCorrect": false
+            },
+            {
+              "title": "Como una relación profesional estricta",
+              "isCorrect": false
+            },
+            {
+              "title": "Como un amor inesperado y prohibido",
+              "isCorrect": true
+            },
+            {
+              "title": "Como una rivalidad intensa",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "title": "¿Qué tipo de trono enfrenta Bridget después de que su hermano abdica?",
+          "answers": [
+            {
+              "title": "Un trono que siempre quiso",
+              "isCorrect": false
+            },
+            {
+              "title": "Un trono que nunca quiso",
+              "isCorrect": true
+            },
+            {
+              "title": "Un trono que le fue prometido desde niña",
+              "isCorrect": false
+            },
+            {
+              "title": "Un trono que le fue arrebatado injustamente",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "title": "¿Cómo se describe principalmente el carácter de Rhys Larsen en “Twisted Games”?",
+          "answers": [
+            {
+              "title": "Siempre feliz y optimista",
+              "isCorrect": false
+            },
+            {
+              "title": "Siempre triste y pesimista",
+              "isCorrect": false
+            },
+            {
+              "title": "Nunca ha tenido la tentación de romper sus reglas… hasta ella",
+              "isCorrect": true
+            },
+            {
+              "title": "Siempre rompe sus reglas sin importar las consecuencias",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "title": "¿Qué sueña Bridget en “Twisted Games”?",
+          "answers": [
+            {
+              "title": "Sueña con la libertad de vivir y amar como ella elija",
+              "isCorrect": true
+            },
+            {
+              "title": "Sueña con convertirse en reina y gobernar su reino",
+              "isCorrect": false
+            },
+            {
+              "title": "Sueña con casarse con Rhys y vivir felizmente para siempre",
+              "isCorrect": false
+            },
+            {
+              "title": "Sueña con abandonar su vida real y vivir una vida normal",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "title": "¿Cómo se describe principalmente la relación entre Bridget y su hermano en “Twisted Games”?",
+          "answers": [
+            {
+              "title": "Como una relación tensa y conflictiva",
+              "isCorrect": false
+            },
+            {
+              "title": "Como una relación cercana y amorosa",
+              "isCorrect": false
+            },
+            {
+              "title": "Como una relación distante y fría",
+              "isCorrect": false
+            },
+            {
+              "title": "No se menciona ninguna relación entre ellos en el libro",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "title": "¿Cómo se describe principalmente la relación entre Rhys y su jefe en “Twisted Games”?",
+          "answers": [
+            {
+              "title": "Como una relación tensa y conflictiva",
+              "isCorrect": false
+            },
+            {
+              "title": "Como una relación cercana y respetuosa",
+              "isCorrect": false
+            },
+            {
+              "title": "Como una relación distante y fría",
+              "isCorrect": false
+            },
+            {
+              "title": "No se menciona ninguna relación entre ellos en el libro",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "title": "¿Qué tipo de reina se espera que sea Bridget en “Twisted Games”?",
+          "answers": [
+            {
+              "title": "Una reina amada por su pueblo",
+              "isCorrect": false
+            },
+            {
+              "title": "Una reina temida por su pueblo",
+              "isCorrect": false
+            },
+            {
+              "title": "Una reina que gobierna con mano dura",
+              "isCorrect": false
+            },
+            {
+              "title": "No se menciona qué tipo de reina se espera que sea Bridget en el libro",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "title": "¿Cómo se describe principalmente la personalidad de Bridget en “Twisted Games”?",
+          "answers": [
+            {
+              "title": "Tímida y reservada",
+              "isCorrect": false
+            },
+            {
+              "title": "Regia, de voluntad fuerte",
+              "isCorrect": true
+            },
+            {
+              "title": "Alegre y extrovertida",
+              "isCorrect": false
+            },
+            {
+              "title": "Amigable y sociable",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "title": "¿Qué tipo de matrimonio enfrenta Bridget después de que su hermano abdica?",
+          "answers": [
+            {
+              "title": "Un matrimonio por amor",
+              "isCorrect": false
+            },
+            {
+              "title": "Un matrimonio políticamente conveniente y sin amor",
+              "isCorrect": true
+            },
+            {
+              "title": "Un matrimonio arreglado por sus padres",
+              "isCorrect": false
+            },
+            {
+              "title": "Un matrimonio con un príncipe extranjero",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "title": "¿Qué tipo de matrimonio enfrenta Bridget después de que su hermano abdica?",
+          "answers": [
+            {
+              "title": "Un matrimonio por amor",
+              "isCorrect": false
+            },
+            {
+              "title": "Un matrimonio políticamente conveniente y sin amor",
+              "isCorrect": true
+            },
+            {
+              "title": "Un matrimonio arreglado por sus padres",
+              "isCorrect": false
+            },
+            {
+              "title": "Un matrimonio con un príncipe extranjero",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "title": "¿Cómo se describe principalmente la relación entre Bridget y Rhys en “Twisted Games”?",
+          "answers": [
+            {
+              "title": "Como una amistad profunda",
+              "isCorrect": false
+            },
+            {
+              "title": "Como una relación profesional estricta",
+              "isCorrect": false
+            },
+            {
+              "title": "Como un amor inesperado y prohibido",
+              "isCorrect": true
+            },
+            {
+              "title": "Como una rivalidad intensa",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
