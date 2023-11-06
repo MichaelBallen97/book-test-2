@@ -1,471 +1,700 @@
 {
   "books": [
     {
-      "title": "Twisted Games",
-      "Questions": [
+      "title": "Twisted Love",
+      "handle": "twisted-love",
+      "image": "/twisted-love.jpg",
+      "questions": [
         {
-          "title": "¿Cuál es el segundo nombre de Bridget en “Twisted Games”?",
+          "title": "¿Quién es el autor de “Twisted Love”?",
           "answers": [
             {
-              "title": "Elizabeth",
+              "title": "J.K. Rowling",
               "isCorrect": false
             },
             {
-              "title": "Von Ascheberg",
+              "title": "Stephen King",
+              "isCorrect": false
+            },
+            {
+              "title": "Ana Huang",
               "isCorrect": true
             },
+            {
+              "title": "George R.R. Martin",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "title": "¿Cuál es la profesión de Alex Volkov en “Twisted Love”?",
+          "answers": [
+            {
+              "title": "Médico",
+              "isCorrect": false
+            },
+            {
+              "title": "Abogado",
+              "isCorrect": false
+            },
+            {
+              "title": "Guardaespaldas",
+              "isCorrect": false
+            },
+            {
+              "title": "COO",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "title": "¿Cómo se llama la hermana del mejor amigo de Alex en “Twisted Love”?",
+          "answers": [
             {
               "title": "Diana",
               "isCorrect": false
             },
             {
-              "title": "Meghan",
+              "title": "Ava Chen",
+              "isCorrect": true
+            },
+            {
+              "title": "Bridget von Ascheberg",
+              "isCorrect": false
+            },
+            {
+              "title": "Catherine",
               "isCorrect": false
             }
           ]
         },
         {
-          "title": "¿Qué tipo de guardaespaldas es Rhys Larsen en el libro?",
+          "title": "¿Cuál es el género principal de “Twisted Love”?",
           "answers": [
             {
-              "title": "Guardaespaldas de celebridades",
+              "title": "Ciencia ficción",
               "isCorrect": false
             },
             {
-              "title": "Guardaespaldas personal",
-              "isCorrect": false
-            },
-            {
-              "title": "Guardaespaldas real",
+              "title": "Romance contemporáneo",
               "isCorrect": true
             },
             {
-              "title": "Guardaespaldas corporativo",
+              "title": "Fantasía",
+              "isCorrect": false
+            },
+            {
+              "title": "Misterio",
               "isCorrect": false
             }
           ]
         },
         {
-          "title": "¿Cuál es la actitud predominante de Rhys Larsen en “Twisted Games”?",
+          "title": "¿Qué sucede cuando el hermano de Ava se va a Centroamérica?",
           "answers": [
             {
-              "title": "Alegre y extrovertido",
+              "title": "Ella se convierte en reina",
               "isCorrect": false
             },
             {
-              "title": "Tímido y reservado",
+              "title": "Ella se va de vacaciones",
               "isCorrect": false
             },
             {
-              "title": "Estoico, malhumorado y arrogante",
+              "title": "Alex se muda a la casa de Ava para protegerla",
               "isCorrect": true
             },
             {
-              "title": "Amigable y sociable",
+              "title": "Ella se muda a otro país",
               "isCorrect": false
             }
           ]
         },
         {
-          "title": "¿Qué sucede con Bridget cuando su hermano abdica?",
+          "title": "¿Cómo describirías la relación entre Ava y Alex?",
           "answers": [
             {
-              "title": "Se convierte en la próxima en la línea de sucesión al trono",
+              "title": "Son enemigos",
+              "isCorrect": false
+            },
+            {
+              "title": "Son mejores amigos",
+              "isCorrect": false
+            },
+            {
+              "title": "Tienen una relación amorosa prohibida",
               "isCorrect": true
             },
             {
-              "title": "Se va de vacaciones para evitar la presión",
-              "isCorrect": false
-            },
-            {
-              "title": "Se casa con Rhys para protegerse",
-              "isCorrect": false
-            },
-            {
-              "title": "Decide renunciar a sus deberes reales",
+              "title": "Son familiares",
               "isCorrect": false
             }
           ]
         },
         {
-          "title": "¿Qué sucede con Bridget cuando su hermano abdica?",
+          "title": "¿Dónde se ambienta principalmente “Twisted Love”?",
           "answers": [
             {
-              "title": "Se convierte en la próxima en la línea de sucesión al trono",
-              "isCorrect": true
-            },
-            {
-              "title": "Se va de vacaciones para evitar la presión",
+              "title": "En un hospital",
               "isCorrect": false
             },
             {
-              "title": "Se casa con Rhys para protegerse",
+              "title": "En una escuela",
               "isCorrect": false
             },
             {
-              "title": "Decide renunciar a sus deberes reales",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "title": "¿Cuál es el ritmo de la novela romántica contemporánea “Twisted Games”?",
-          "answers": [
-            {
-              "title": "Rápido",
+              "title": "En un palacio real",
               "isCorrect": false
             },
             {
-              "title": "Lento a medio",
-              "isCorrect": true
-            },
-            {
-              "title": "Medio a rápido",
-              "isCorrect": false
-            },
-            {
-              "title": "Constante",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "title": "¿Cuál es el número de reglas que tiene Rhys Larsen como guardaespaldas?",
-          "answers": [
-            {
-              "title": "Una",
-              "isCorrect": false
-            },
-            {
-              "title": "Dos",
-              "isCorrect": true
-            },
-            {
-              "title": "Tres",
-              "isCorrect": false
-            },
-            {
-              "title": "Cuatro",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "title": "¿Qué podría suceder si Rhys y Bridget se enamoran según el libro?",
-          "answers": [
-            {
-              "title": "Podrían ser felices para siempre",
-              "isCorrect": false
-            },
-            {
-              "title": "Podrían ser castigados por la realeza",
-              "isCorrect": false
-            },
-            {
-              "title": "Podrían destruir un reino y condenarse a ambos",
-              "isCorrect": true
-            },
-            {
-              "title": "Podrían destruir un reino y condenarse a ambos",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "title": "¿Cuál es el título del primer libro de la serie “Twisted”?",
-          "answers": [
-            {
-              "title": "Twisted Love",
-              "isCorrect": true
-            },
-            {
-              "title": "Twisted Love",
-              "isCorrect": false
-            },
-            {
-              "title": "Twisted Fate",
-              "isCorrect": false
-            },
-            {
-              "title": "Twisted Games",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "title": "¿Cómo se describe principalmente a Bridget von Ascheberg en “Twisted Games”?",
-          "answers": [
-            {
-              "title": "Tímida y reservada",
-              "isCorrect": false
-            },
-            {
-              "title": "Regia y de voluntad fuerte",
-              "isCorrect": true
-            },
-            {
-              "title": "Alegre y extrovertida",
-              "isCorrect": false
-            },
-            {
-              "title": "Amigable y sociable",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "title": "¿Qué tipo de matrimonio enfrenta Bridget después de que su hermano abdica?",
-          "answers": [
-            {
-              "title": "Un matrimonio por amor",
-              "isCorrect": false
-            },
-            {
-              "title": "Un matrimonio políticamente conveniente y sin amor",
-              "isCorrect": true
-            },
-            {
-              "title": "Un matrimonio arreglado por sus padres",
-              "isCorrect": false
-            },
-            {
-              "title": "Un matrimonio con un príncipe extranjero",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "title": "¿Cómo se describe principalmente la relación entre Bridget y Rhys en “Twisted Games”?",
-          "answers": [
-            {
-              "title": "Como una amistad profunda",
-              "isCorrect": false
-            },
-            {
-              "title": "Como una relación profesional estricta",
-              "isCorrect": false
-            },
-            {
-              "title": "Como un amor inesperado y prohibido",
-              "isCorrect": true
-            },
-            {
-              "title": "Como una rivalidad intensa",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "title": "¿Qué tipo de trono enfrenta Bridget después de que su hermano abdica?",
-          "answers": [
-            {
-              "title": "Un trono que siempre quiso",
-              "isCorrect": false
-            },
-            {
-              "title": "Un trono que nunca quiso",
-              "isCorrect": true
-            },
-            {
-              "title": "Un trono que le fue prometido desde niña",
-              "isCorrect": false
-            },
-            {
-              "title": "Un trono que le fue arrebatado injustamente",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "title": "¿Cómo se describe principalmente el carácter de Rhys Larsen en “Twisted Games”?",
-          "answers": [
-            {
-              "title": "Siempre feliz y optimista",
-              "isCorrect": false
-            },
-            {
-              "title": "Siempre triste y pesimista",
-              "isCorrect": false
-            },
-            {
-              "title": "Nunca ha tenido la tentación de romper sus reglas… hasta ella",
-              "isCorrect": true
-            },
-            {
-              "title": "Siempre rompe sus reglas sin importar las consecuencias",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "title": "¿Qué sueña Bridget en “Twisted Games”?",
-          "answers": [
-            {
-              "title": "Sueña con la libertad de vivir y amar como ella elija",
-              "isCorrect": true
-            },
-            {
-              "title": "Sueña con convertirse en reina y gobernar su reino",
-              "isCorrect": false
-            },
-            {
-              "title": "Sueña con casarse con Rhys y vivir felizmente para siempre",
-              "isCorrect": false
-            },
-            {
-              "title": "Sueña con abandonar su vida real y vivir una vida normal",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "title": "¿Cómo se describe principalmente la relación entre Bridget y su hermano en “Twisted Games”?",
-          "answers": [
-            {
-              "title": "Como una relación tensa y conflictiva",
-              "isCorrect": false
-            },
-            {
-              "title": "Como una relación cercana y amorosa",
-              "isCorrect": false
-            },
-            {
-              "title": "Como una relación distante y fría",
-              "isCorrect": false
-            },
-            {
-              "title": "No se menciona ninguna relación entre ellos en el libro",
+              "title": "En una casa",
               "isCorrect": true
             }
           ]
         },
         {
-          "title": "¿Cómo se describe principalmente la relación entre Rhys y su jefe en “Twisted Games”?",
+          "title": "¿Cómo se siente Ava acerca de su pasado?",
           "answers": [
             {
-              "title": "Como una relación tensa y conflictiva",
+              "title": "Le encanta y siempre ha soñado con ser princesa",
               "isCorrect": false
             },
             {
-              "title": "Como una relación cercana y respetuosa",
+              "title": "Lo odia y sueña con la libertad de vivir y amar a su manera",
               "isCorrect": false
             },
             {
-              "title": "Como una relación distante y fría",
+              "title": "No le importa y solo quiere hacer feliz a su familia",
               "isCorrect": false
             },
             {
-              "title": "No se menciona ninguna relación entre ellos en el libro",
+              "title": "No puede recordar nada antes de los nueve años",
               "isCorrect": true
             }
           ]
         },
         {
-          "title": "¿Qué tipo de reina se espera que sea Bridget en “Twisted Games”?",
+          "title": "¿Es “Twisted Love” el primer libro de la serie “Twisted”?",
           "answers": [
             {
-              "title": "Una reina amada por su pueblo",
-              "isCorrect": false
-            },
-            {
-              "title": "Una reina temida por su pueblo",
-              "isCorrect": false
-            },
-            {
-              "title": "Una reina que gobierna con mano dura",
-              "isCorrect": false
-            },
-            {
-              "title": "No se menciona qué tipo de reina se espera que sea Bridget en el libro",
-              "isCorrect": true
-            }
-          ]
-        },
-        {
-          "title": "¿Cómo se describe principalmente la personalidad de Bridget en “Twisted Games”?",
-          "answers": [
-            {
-              "title": "Tímida y reservada",
-              "isCorrect": false
-            },
-            {
-              "title": "Regia, de voluntad fuerte",
+              "title": "Si",
               "isCorrect": true
             },
             {
-              "title": "Alegre y extrovertida",
-              "isCorrect": false
-            },
-            {
-              "title": "Amigable y sociable",
+              "title": "No",
               "isCorrect": false
             }
           ]
         },
         {
-          "title": "¿Qué tipo de matrimonio enfrenta Bridget después de que su hermano abdica?",
+          "title": "¿Qué le revela el padre de Ava en el Día de Acción de Gracias?",
           "answers": [
             {
-              "title": "Un matrimonio por amor",
+              "title": "Que Ava es adoptada",
               "isCorrect": false
             },
             {
-              "title": "Un matrimonio políticamente conveniente y sin amor",
+              "title": "Que Ava tiene un hermano gemelo",
+              "isCorrect": false
+            },
+            {
+              "title": "Un secreto impactante sobre el pasado de Ava",
               "isCorrect": true
             },
             {
-              "title": "Un matrimonio arreglado por sus padres",
-              "isCorrect": false
-            },
-            {
-              "title": "Un matrimonio con un príncipe extranjero",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "title": "¿Qué tipo de matrimonio enfrenta Bridget después de que su hermano abdica?",
-          "answers": [
-            {
-              "title": "Un matrimonio por amor",
-              "isCorrect": false
-            },
-            {
-              "title": "Un matrimonio políticamente conveniente y sin amor",
-              "isCorrect": true
-            },
-            {
-              "title": "Un matrimonio arreglado por sus padres",
-              "isCorrect": false
-            },
-            {
-              "title": "Un matrimonio con un príncipe extranjero",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "title": "¿Cómo se describe principalmente la relación entre Bridget y Rhys en “Twisted Games”?",
-          "answers": [
-            {
-              "title": "Como una amistad profunda",
-              "isCorrect": false
-            },
-            {
-              "title": "Como una relación profesional estricta",
-              "isCorrect": false
-            },
-            {
-              "title": "Como un amor inesperado y prohibido",
-              "isCorrect": true
-            },
-            {
-              "title": "Como una rivalidad intensa",
+              "title": "Que Ava es la heredera de una gran fortuna",
               "isCorrect": false
             }
           ]
         }
-      ]
+      ],
+      "bonus": {
+        "title": "BONUS ¿Es Michael el mas genial del mundo?",
+        "answers": [
+          {
+            "title": "Si",
+            "isCorrect": true
+          },
+          {
+            "title": "Obvio",
+            "isCorrect": true
+          },
+          {
+            "title": "Para nada",
+            "isCorrect": false
+          },
+          {
+            "title": "Por supuesto!",
+            "isCorrect": true
+          }
+        ]
+      },
+      "isComplete": false,
+      "score": "0/10"
+    },
+    {
+      "title": "Twisted Games",
+      "handle": "twisted-games",
+      "image": "/twisted-games.jpg",
+      "questions": [
+        {
+          "title": "¿Quién es el autor de “Twisted Games”?",
+          "answers": [
+            {
+              "title": "J.K. Rowling",
+              "isCorrect": false
+            },
+            {
+              "title": "Stephen King",
+              "isCorrect": false
+            },
+            {
+              "title": "Ana Huang",
+              "isCorrect": true
+            },
+            {
+              "title": "George R.R. Martin",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "title": "¿Cuál es la profesión de Rhys Larsen en “Twisted Games”?",
+          "answers": [
+            {
+              "title": "Médico",
+              "isCorrect": false
+            },
+            {
+              "title": "Abogado",
+              "isCorrect": false
+            },
+            {
+              "title": "Guardaespaldas",
+              "isCorrect": true
+            },
+            {
+              "title": "Chef",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "title": "¿Cómo se llama la princesa en “Twisted Games”?",
+          "answers": [
+            {
+              "title": "Diana",
+              "isCorrect": false
+            },
+            {
+              "title": "Elizabeth",
+              "isCorrect": false
+            },
+            {
+              "title": "Bridget von Ascheberg",
+              "isCorrect": true
+            },
+            {
+              "title": "Catherine",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "title": "¿Cuál es el género principal de “Twisted Games”?",
+          "answers": [
+            {
+              "title": "Ciencia ficción",
+              "isCorrect": false
+            },
+            {
+              "title": "Romance contemporáneo",
+              "isCorrect": true
+            },
+            {
+              "title": "Fantasía",
+              "isCorrect": false
+            },
+            {
+              "title": "Misterio",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "title": "¿Qué reglas tiene Rhys Larsen en su trabajo?",
+          "answers": [
+            {
+              "title": "Proteger a sus clientes a toda costa y no involucrarse emocionalmente",
+              "isCorrect": true
+            },
+            {
+              "title": "Siempre decir la verdad y no tomar partido",
+              "isCorrect": false
+            },
+            {
+              "title": "Nunca trabajar los fines de semana y mantener una dieta saludable",
+              "isCorrect": false
+            },
+            {
+              "title": "Siempre llegar a tiempo y no hacer horas extras",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "title": "¿Qué sucede cuando el hermano de Bridget abdica?",
+          "answers": [
+            {
+              "title": "Ella se convierte en reina",
+              "isCorrect": true
+            },
+            {
+              "title": "Ella se va de vacaciones",
+              "isCorrect": false
+            },
+            {
+              "title": "Ella se casa con Rhy",
+              "isCorrect": false
+            },
+            {
+              "title": "Ella se muda a otro país",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "title": "¿Cómo describirías la relación entre Bridget y Rhys?",
+          "answers": [
+            {
+              "title": "Son enemigos",
+              "isCorrect": false
+            },
+            {
+              "title": "Son mejores amigos",
+              "isCorrect": false
+            },
+            {
+              "title": "Tienen una relación amorosa prohibida",
+              "isCorrect": true
+            },
+            {
+              "title": "Son familiares",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "title": "¿Dónde se ambienta principalmente “Twisted Games”?",
+          "answers": [
+            {
+              "title": "En un hospital",
+              "isCorrect": false
+            },
+            {
+              "title": "En una escuela",
+              "isCorrect": false
+            },
+            {
+              "title": "En un palacio real",
+              "isCorrect": true
+            },
+            {
+              "title": "En un restaurante",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "title": "¿Cómo se siente Bridget acerca de su deber como princesa?",
+          "answers": [
+            {
+              "title": "Le encanta y siempre ha soñado con ser princesa",
+              "isCorrect": false
+            },
+            {
+              "title": "Lo odia y sueña con la libertad de vivir y amar a su manera",
+              "isCorrect": true
+            },
+            {
+              "title": "No le importa y solo quiere hacer feliz a su familia",
+              "isCorrect": false
+            },
+            {
+              "title": "Está confundida y no sabe qué hacer",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "title": "¿Es “Twisted Games” el primer libro de la serie “Twisted”?",
+          "answers": [
+            {
+              "title": "Si",
+              "isCorrect": false
+            },
+            {
+              "title": "No",
+              "isCorrect": true
+            }
+          ]
+        }
+      ],
+      "bonus": {
+        "title": "BONUS ¿Quien es la persona mas genial que has conocido?",
+        "answers": [
+          {
+            "title": "Mike",
+            "isCorrect": true
+          },
+          {
+            "title": "Michael Ballen",
+            "isCorrect": true
+          },
+          {
+            "title": "Nadie",
+            "isCorrect": false
+          },
+          {
+            "title": "Michael Brandon",
+            "isCorrect": true
+          }
+        ]
+      },
+      "isComplete": false,
+      "score": "0/10"
+    },
+    {
+      "title": "Twisted Hate",
+      "handle": "twisted-hate",
+      "image": "/twisted-hate.jpg",
+      "questions": [
+        {
+          "title": "¿Quién es el autor de “Twisted Hate”?",
+          "answers": [
+            {
+              "title": "J.K. Rowling",
+              "isCorrect": false
+            },
+            {
+              "title": "Stephen King",
+              "isCorrect": false
+            },
+            {
+              "title": "Ana Huang",
+              "isCorrect": true
+            },
+            {
+              "title": "George R.R. Martin",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "title": "¿Cuál es la profesión de Josh Chen en “Twisted Hate”?",
+          "answers": [
+            {
+              "title": "Médico",
+              "isCorrect": false
+            },
+            {
+              "title": "Abogado",
+              "isCorrect": false
+            },
+            {
+              "title": "Guardaespaldas",
+              "isCorrect": false
+            },
+            {
+              "title": "Residente de tercer año especializado en medicina de emergencia",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "title": "¿Cómo se llama la amiga de la hermana del mejor amigo de Josh en “Twisted Hate”?",
+          "answers": [
+            {
+              "title": "Diana",
+              "isCorrect": false
+            },
+            {
+              "title": "Ava Chen",
+              "isCorrect": false
+            },
+            {
+              "title": "Jules Ambrose",
+              "isCorrect": true
+            },
+            {
+              "title": "Catherine",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "title": "¿Cuál es el género principal de “Twisted Hate”?",
+          "answers": [
+            {
+              "title": "Ciencia ficción",
+              "isCorrect": false
+            },
+            {
+              "title": "Romance contemporáneo para adultos",
+              "isCorrect": true
+            },
+            {
+              "title": "Fantasía",
+              "isCorrect": false
+            },
+            {
+              "title": "Misterio",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "title": "¿Qué sucede cuando Jules comienza a trabajar en la oficina donde Josh se ofrece como voluntario?",
+          "answers": [
+            {
+              "title": "Ella se convierte en reina",
+              "isCorrect": false
+            },
+            {
+              "title": "Ella se va de vacaciones",
+              "isCorrect": false
+            },
+            {
+              "title": "Josh se muda a la casa de Jules para protegerla",
+              "isCorrect": true
+            },
+            {
+              "title": "Ella se muda a otro país",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "title": "¿Cómo describirías la relación entre Jules y Josh?",
+          "answers": [
+            {
+              "title": "Son enemigos",
+              "isCorrect": false
+            },
+            {
+              "title": "Son mejores amigos",
+              "isCorrect": false
+            },
+            {
+              "title": "Tienen una relación amorosa prohibida",
+              "isCorrect": true
+            },
+            {
+              "title": "Son familiares",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "title": "¿Dónde se ambienta principalmente “Twisted Hate”?",
+          "answers": [
+            {
+              "title": "En un hospital",
+              "isCorrect": false
+            },
+            {
+              "title": "En una escuela",
+              "isCorrect": false
+            },
+            {
+              "title": "En un palacio real",
+              "isCorrect": false
+            },
+            {
+              "title": "En una casa",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "title": "¿Cómo se siente Jules acerca de su pasado?",
+          "answers": [
+            {
+              "title": "Le encanta y siempre ha soñado con ser princesa",
+              "isCorrect": false
+            },
+            {
+              "title": "Lo odia y sueña con la libertad de vivir y amar a su manera",
+              "isCorrect": false
+            },
+            {
+              "title": "No le importa y solo quiere hacer feliz a su familia",
+              "isCorrect": false
+            },
+            {
+              "title": "No puede recordar nada antes de los nueve años",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "title": "¿Es “Twisted Hate” el tercer libro de la serie “Twisted”?",
+          "answers": [
+            {
+              "title": "Si",
+              "isCorrect": true
+            },
+            {
+              "title": "No",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "title": "¿Qué le revela el padre de Jules en el Día de Acción de Gracias?",
+          "answers": [
+            {
+              "title": "Que Jules es adoptada",
+              "isCorrect": false
+            },
+            {
+              "title": "Que Jules tiene un hermano gemelo",
+              "isCorrect": false
+            },
+            {
+              "title": "Un secreto impactante sobre el pasado de Jules",
+              "isCorrect": true
+            },
+            {
+              "title": "Que Jules es la heredera de una gran fortuna",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "bonus": {
+        "title": "BONUS ¿Porque Michael es la persona mas genial que conoces?",
+        "answers": [
+          {
+            "title": "Porque si",
+            "isCorrect": true
+          },
+          {
+            "title": "Porque es muy inteligente",
+            "isCorrect": true
+          },
+          {
+            "title": "Eso es mentira",
+            "isCorrect": false
+          },
+          {
+            "title": "Simplemente él nacio asi",
+            "isCorrect": true
+          }
+        ]
+      },
+      "isComplete": false,
+      "score": "0/10"
     }
   ]
 }
